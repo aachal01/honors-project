@@ -1,5 +1,6 @@
 const { readCertificateData, saveCertificate } = require("./common/fs");
 const { log, generateSalt } = require("./common/utils");
+const { saveToBlockchain } = require("./common/web3");
 
 async function createCertificate(jsonObj) {
     
@@ -69,7 +70,9 @@ async function createCertificate(jsonObj) {
 async function main() {
   const certificateData = await readCertificateData()
   const certificate = await createCertificate(certificateData)
+  certificate.issuedTo = "0x33619124Ae8c037BfA137138220Cf3ac49CA58f3"
   await saveCertificate(certificate);
+  await saveToBlockchain(certificate);
 }
 
 main()
