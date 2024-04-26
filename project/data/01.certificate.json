@@ -1,0 +1,68 @@
+{
+  "id": "20b9b90ddfed580b1cdc",
+  "issuedTo": "ethereum address",
+  "data": {
+    "isMasked": false,
+    "type": "map",
+    "value": [
+      {
+        "key": "name",
+        "isMasked": false,
+        "type": "string",
+        "value": "Aachal Modak",
+        "id": "29c522c16ba13d228f6b"
+      },
+      {
+        "key": "grades",
+        "isMasked": false,
+        "type": "number",
+        "value": 10,
+        "id": "54424c870bec740674fd"
+      },
+      {
+        "key": "dob",
+        "isMasked": false,
+        "type": "string",
+        "value": "1st Jan, 1995",
+        "id": "b057f197bd9a48d521cf"
+      },
+      {
+        "key": "gender",
+        "isMasked": false,
+        "type": "string",
+        "value": "female",
+        "id": "f75233da602fa89c1cf4"
+      },
+      {
+        "key": "isPassed",
+        "isMasked": false,
+        "type": "boolean",
+        "value": true,
+        "id": "2cb81789ae6d526f5eb3"
+      },
+      {
+        "key": "awards",
+        "isMasked": false,
+        "type": "array",
+        "value": [
+          {
+            "key": "0",
+            "isMasked": false,
+            "type": "string",
+            "value": "GHC",
+            "id": "233a13badcf4fbb064eb"
+          },
+          {
+            "key": "1",
+            "isMasked": false,
+            "type": "string",
+            "value": "Harvard WeCode",
+            "id": "b63818cfe2fd26e8df9e"
+          }
+        ],
+        "id": "262929cd0d77e2421ddc"
+      }
+    ],
+    "id": "718b8b6c9ccd41c8d09f"
+  }
+}

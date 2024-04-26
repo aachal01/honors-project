@@ -1,0 +1,11 @@
+{
+  "name": "Aachal Modak",
+  "grades": 10,
+  "dob": "1st Jan, 1995",
+  "gender": "female",
+  "isPassed": true,
+  "awards": [
+    "GHC",
+    "Harvard WeCode"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "6115c7fda3c5b327f444720c9ca6e4b8",
+  "issuedTo": "ethereum address",
+  "data": {
+    "isMasked": false,
+    "type": "map",
+    "value": [
+      {
+        "key": "string_key",
+        "isMasked": false,
+        "type": "string",
+        "value": "string_value",
+        "id": "90dbe77145aa1e7673b5cb9861ee35dc"
+      },
+      {
+        "isMasked": true,
+        "id": "1dacb9dc983fa5effc45cadee3712955",
+        "hash": "65c43f9b7bb3992ccd82ecc92583c5f14b6b46635c54b0cc9518ba4861578bbc"
+      },
+      {
+        "key": "boolen_key",
+        "isMasked": false,
+        "type": "boolean",
+        "value": true,
+        "id": "6f4c8314b9e19d107ddc8f93c41c1de0"
+      },
+      {
+        "isMasked": true,
+        "id": "2556e710f018432766acac258dd0fdd0",
+        "hash": "7be3e22af04775c2779df12f20ffa3ff3c2be2d3d4a7701507441682fbcd7945"
+      },
+      {
+        "key": "array_key",
+        "isMasked": false,
+        "type": "array",
+        "value": [
+          {
+            "isMasked": true,
+            "id": "cd8dda70f2a581d6ef4b53eb839d7981",
+            "hash": "17cddfd55a61b0b6d11c936c615f507240a9381185b36ad192721982c2a6b52d"
+          },
+          {
+            "isMasked": false,
+            "type": "number",
+            "value": 12345678,
+            "id": "de63f1511b025917b5f087bb5bea5edc"
+          },
+          {
+            "isMasked": false,
+            "type": "boolean",
+            "value": true,
+            "id": "f7777cca2ccc2fc23ddc30f4c174c35f"
+          },
+          {
+            "isMasked": false,
+            "type": "map",
+            "value": [
+              {
+                "key": "key1",
+                "isMasked": false,
+                "type": "string",
+                "value": "value1",
+                "id": "678fae607eb3b1b38d5f53ad4abd0300"
+              }
+            ],
+            "id": "cab932e1d726edfaec274e80745786ac"
+          },
+          {
+            "isMasked": false,
+            "type": "array",
+            "value": [
+              {
+                "isMasked": true,
+                "id": "142bc774cd241c679d5a271cd0b28426",
+                "hash": "9ad772c683616bb9e4a196a154738efce441045e627167f4360b08daca26eeec"
+              }
+            ],
+            "id": "7fe0f69956d6d1f86b5acd3e3f36832f"
+          }
+        ],
+        "id": "b9acc39fe726bb4d1bc2477d61f74b24"
+      }
+    ],
+    "id": "59d67955d997704b76d194408a030c64"
+  }
+}

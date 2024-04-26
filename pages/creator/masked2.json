@@ -1,0 +1,44 @@
+{
+    "id": "6115c7fda3c5b327f444720c9ca6e4b8",
+    "issuedTo": "ethereum address",
+    "data": {
+      "isMasked": false,
+      "type": "map",
+      "value": [
+        {
+          "key": "string_key",
+          "isMasked": false,
+          "type": "string",
+          "value": "string_value",
+          "id": "90dbe77145aa1e7673b5cb9861ee35dc"
+        },
+        {
+          "isMasked": true,
+          "id": "1dacb9dc983fa5effc45cadee3712955",
+          "hash": "..."
+        },
+        {
+          "key": "boolen_key",
+          "isMasked": false,
+          "type": "boolean",
+          "value": true,
+          "id": "6f4c8314b9e19d107ddc8f93c41c1de0"
+        },
+        {
+          "isMasked": true,
+          "id": "2556e710f018432766acac258dd0fdd0",
+          "hash": "..."
+        },
+        {
+          "isMasked": true,
+          "hash":"...",
+          "id": "b9acc39fe726bb4d1bc2477d61f74b24"
+          
+        }
+      ],
+      "id": "59d67955d997704b76d194408a030c64"
+    }
+  }
+
+
+
